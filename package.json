@@ -1,0 +1,24 @@
+{
+  "name": "newsomeapp",
+  "version": "1.0.0",
+  "description": "![alt text](https://nodejs.org/static/images/logo.svg)",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "get-json": "^1.0.0",
+    "get-json-data": "^0.1.2",
+    "gulp": "^3.9.1",
+    "kijiji-scraper": "^4.0.5",
+    "nodemailer": "^4.2.0",
+    "nodemon": "^1.12.1",
+    "pg": "^7.3.0",
+    "request": "^2.83.0",
+    "sequelize": "^4.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
